@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Rudra! 👋 🚀
 
-<!--
-**RIO6124/RIO6124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐧 Student & Tech Learner 
 
-Here are some ideas to get you started:
+- 🔭 **My Goal:** I want to get into the tech world and learn how things work from the ground up.
+- 🌱 **What I'm Learning:** Currently learning Linux commands and basic networking essentials.
+- 💻 **My Setup:** Running Ubuntu Linux on my laptop and exploring the command line.
+- 🎯 **Future Plans:** Planning to pursue a BCA degree to build a strong foundation in computer science.
+- 📫 **How to reach me:** [Instagram](https://instagram.com/1st%20bat._6124) 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My GitHub Stats
+
+![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RIO6124&show_icons=true&theme=tokyonight)
